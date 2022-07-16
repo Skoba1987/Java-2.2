@@ -11,11 +11,11 @@ public class Main {
             System.out.println(add / bonus);
             System.out.println("Итого");
             System.out.println((add / bonus) + start + add);
-                               } else {
+        } else {
             System.out.println("Пополните на сумму от 1000 рублей и получи бонусы");
             System.out.println("Итого");
             System.out.println(add + start);
-                    }
+        }
     }
 }
 
